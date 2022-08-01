@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karthimak
+- 👋 Hi, I’m @Karthik
 - 👀 I’m interested in Android Application Development
 - 🌱 I’m currently learning Kotlin, Android Development
 - 💞️ I’m looking to collaborate on Application Development on Android, iOS
