@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Karthik
-- 👀 I’m interested in Android Application Development
-- 🌱 I’m currently learning Kotlin, Android Development
-- 💞️ I’m looking to collaborate on Application Development on Android, iOS
-- 📫 How to reach me karthikeyankannan2596@gmail.com
+Karthikeyan K 🚀
+Cloud & DevOps Engineer | AWS Expert | Python Trainer
 
-<!---
-Karthimak/Karthimak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Passionate about automating infrastructure, CI/CD pipelines, and cloud solutions.
+🎯 2+ years of experience in Cloud & DevOps, plus a background in Mechanical Engineering.
+📚 AWS DevOps Trainer with expertise in Kubernetes, Terraform, Jenkins, and Python.
+💡 Currently exploring AI and SaaS product development.
+
